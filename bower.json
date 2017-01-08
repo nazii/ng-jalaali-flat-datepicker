@@ -17,7 +17,7 @@
   ],
   "main": [
     "dist/ng-jalaali-flat-datepicker.min.js" , 
-    "dist/dist/ng-jalaali-flat-datepicker.min.css", 
+    "dist/ng-jalaali-flat-datepicker.min.css", 
     "dist/prerequisities.min.js"
   ],
   "scripts": {
