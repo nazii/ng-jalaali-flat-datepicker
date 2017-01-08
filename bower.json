@@ -15,7 +15,11 @@
     "moment",
     "flat"
   ],
-  "main": "dist/ng-jalaali-flat-datepicker.min.js",
+  "main": [
+    "dist/ng-jalaali-flat-datepicker.min.js" , 
+    "dist/dist/ng-jalaali-flat-datepicker.min.css", 
+    "dist/prerequisities.min.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
